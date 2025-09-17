@@ -57,11 +57,12 @@
 
 ---
 
-### 📈 Моя Статистика на GitHub
+### 📈 Моя Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owokequ&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owokequ&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
+  <a href="https://github.com/owokequ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owokequ&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
+  </a>
 </p>
 
 ---
