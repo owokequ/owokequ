@@ -1,5 +1,4 @@
 <h1 align="center">Привет, меня зовут Артем 👋</h1>
-<h3 align="center">NestJS Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&center=true&width=435&height=50&lines=Backend+Developer;NestJS+Specialist" alt="Backend Developer, NestJS Specialist" />
